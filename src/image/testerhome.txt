@@ -1,0 +1,187 @@
+﻿TesterHome
+Topics
+Bug Tracker
+QA
+Teams
+招聘
+Wiki
+开源项目新
+酷站
+Sign Up
+Sign In
+
+搜索本站内容
+ 
+社区置顶
+110	
+在自己的年纪做合适的事情，祝福大家 2018 顺利~ 
+Lihuazhang
+106
+B2db36	
+优质招聘汇总 
+maine
+17
+E55002	
+Python 免费公开课，听大咖讲 Python 基础。 
+cindy1125
+3
+104	
+移动互联网测试开发大会第四届_开始筹备
+seveniruby for testerhome管理委员会
+24
+最新帖子 查看更多...
+5187be	
+jenkins 可以实现构建失败发邮件给提交代码的人么
+CY
+4
+4347	
+微信跳一跳 java 版 PC 端程序
+jinhui20073000
+2
+12	
+快到年底了，如何看待被强制去排练年会节目？
+anonymous
+8
+75de6c	
+appium 支持手机横竖屏切换吗？用什么方法可以实现呢？
+lzc-3232
+1
+Bbd245	
+自动化来玩大家来找茬 
+ctro15547
+3
+9c1cfa	
+An unknown server-side error occurred while processing the command. 这个问题怎么解决？
+lu
+2
+社区精华帖 查看更多精华帖...
+3810	
+资金的 bug 怎么测？怎么防资损？ 
+chen_sen
+4
+16280	
+盘点我这两年的成与败 
+fudax
+29
+4f9cc2	
+基于 macaca 的遍历 NoSmoke 
+harsayer
+6
+Bbd245	
+图片识别与跳一跳小游戏 
+ctro15547
+5
+605	
+瓶颈的 2017，继续突破的 2018 
+chenhengjie123
+19
+3623	
+幸运的 2017，期待 2018 
+026
+13
+F073a0	
+[不知所云] 我的 2017，那些和测试有关的，没关的，流水账 
+jamesparagon
+8
+3095	
+线上广告的测试方法 
+darker50
+2
+13997	
+2017，在跌跌撞撞中成长和蜕变 
+Tester_Ella
+26
+2562	
+接口测试用例参数化方案 
+carl
+23
+Bbd245	
+自动化来玩大家来找茬 
+ctro15547
+3
+9033	
+minicap 工具的剖析与修改 
+360qa
+14
+A24049	
+基于 HttpRunner 的接口测试平台--HttpRunnerManager 
+yinquanwang
+15
+7606	
+测试开发之路--一个小小工程师的再回首 
+ycwdaaaa
+13
+6109	
+DebugTalk: 我的 2017 年终总结 
+debugtalk
+23
+6853	
+用技术人员的思路玩微信小游戏《跳一跳》
+codeskyblue
+16
+8d5594	
+图说 2017，Hello 2018 
+terrychow
+19
+1706	
+2017，中年大叔的转型 + 迷茫 
+yangchengtest
+9
+16120	
+2017 末，两年半 
+Ningxw
+24
+8d5594	
+线上问题跟进总结 
+terrychow
+13
+热门节点 
+Appium 招聘 新手区 移动测试基础 Macaca 接口测试 通用技术 Bug 曝光台 灌水 其他测试框架 自动化工具 活动沙龙 匿名吐槽 职业经验 性能测试工具 违规处理区 移动性能测试 问答 Selenium 社区管理 Robotium iOS 测试 持续集成 UiAutomator fir.im 测试管理 WeTest腾讯质量开发平台 OneAPM 前端测试 云测服务 小道消息 移动安全测试 Docker devops 读书会
+Popular locations 
+北京 上海 深圳 杭州 广州 成都 南京 武汉 西安 苏州 厦门 重庆
+
+公众号
+
+个人号助手
+
+Android 客户端
+
+iOS 客户端
+新书推荐
+ 
+ 腾讯iOS测试实践 腾讯iOS测试实践
+七日最热 Top10
+1 盘点我这两年的成与败
+2 DebugTalk: 我的 2017 年终总结
+3 瓶颈的 2017，继续突破的 2018
+4 图说 2017，Hello 2018
+5 用技术人员的思路玩微信小游戏《跳一跳》
+6 基于 HttpRunner 的接口测试平台--HttpRunnerManager
+7 minicap 工具的剖析与修改
+8 年纪有点大了，突然想找一个不用 996 (995.5 实际不是 996 么？...)，不用经常熬夜发版本的公司，我是不是有点一厢情愿。。。。
+9 测试开发之路--一个小小工程师的再回首
+10 幸运的 2017，期待 2018
+最新 bug 
+1 [TesterHome] 首页精华贴未显示钻石图标
+2 淘宝收藏功能关联显示不一致问题
+3 TesterHome 个人中心-关注列表显示与关注人数不符
+4 [微信] Android 6.6.1 版本，系统语言为英文时，选择支付银行卡出现样式错误
+5 [微信转账] 移动信号2 格 4G 网络下转账 “11” 元失败，此后好友或扫码转账输入 “11” 自动变为人民币，并提示输入金额错误，更新到最新版依然存在此问题
+最新收录开源测试项目
+ flow.ci
+ Jenkins
+ JIRA bug管理APP
+ Hitchhiker
+ HttpRunner
+最新加入 （新同学）
+ emo_leon    gasyn  max_z    qsong.vip  aigorenxiuxiu    Rony  galaxy_dou  smart_fool    Cash_hmj  alexwongcoder
+Statistics
+社区会员: 24184 人
+帖子数: 11534 个
+回帖数: 94777 条
+	
+关于 / 活跃用户 / 中国移动互联网测试技术大会 / 反馈 / Github / API / 酷站 / 帮助推广
+TesterHome 移动测试社区，由众多移动测试工作者维护，致力于推进国内测试技术。Inspired by RubyChina
+友情链接 WeTest腾讯质量开放平台 / InfoQ / 测试之道 / 测试窝 / 百度测试吧
+简体中文 / 正體中文 / English
+ 

@@ -1,0 +1,7 @@
+
+2018-01-08 00:46:13,618 root DEBUG loggingexample:17 this is debug log
+2018-01-08 00:46:13,618 root INFO loggingexample:18 test info log
+2018-08-31 21:06:41,788 root DEBUG loggingexample:18 this is debug log
+2018-08-31 21:06:41,789 root INFO loggingexample:19 test info log
+2018-09-15 14:51:09,983 root DEBUG loggingexample:18 this is debug log
+2018-09-15 14:51:09,983 root INFO loggingexample:19 test info log
